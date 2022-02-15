@@ -1,7 +1,7 @@
 # About
 
-#Installation
+# Installation
 
-#Author of Project
+# Author of Project
 
-#Troubleshooting
+# Troubleshooting
