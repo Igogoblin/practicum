@@ -1,6 +1,6 @@
 # About
 
-##Installation
+## Installation
 
 ```sh
 npx create-react-app my-app
